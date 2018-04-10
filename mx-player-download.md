@@ -44,7 +44,7 @@ Virus Total: <span style="color:green;">Clean &#10004;</span><br />
 </script>
 </center>
 
-<h2>MX Player: The Best Video Player App 2018</h2>
+<h2>MX Player: A New Experience for Music</h2>
 Do you adore the 200% sound lift in VLC which help when the sound tracks are
 not extremely capable of being heard? All things considered, on the off chance that
 you are playing a comparative video on the MX Player, there&#39;s nothing you have to
