@@ -15,7 +15,7 @@ permalink: /mx-player-download
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <center>
-<a href="https://mxplayer.plusapkz.com/"><img src="https://mxplayer.plusapkz.com/mx-player.png" alt="mx player" title="mx player for pc" /></a><br />
+<a href="https://mxplayer.plusapkz.com/"><img width="100" height="100" src="https://mxplayer.plusapkz.com/mx-player.png" alt="mx player" title="mx player for pc" /></a><br />
 Name: MX Player Download<br />
 Version: v2.19 (2018 Latest)<br />
 Update: 10.04.2018<br />
@@ -51,7 +51,7 @@ you are playing a comparative video on the MX Player, there&#39;s nothing you ha
 stress over. With programming decoder empowered, a client can help the video
 volume to 200%. However the client should ensure that he doesn't ruin his gadget
 speakers simultaneously (which means, don&#39;t do it over and over again, and rather
-scan for a rendition of video with better sound).
+scan for a rendition of video with better sound).<br><br>
 The playback in MX Player isn&#39;t simply constrained to neighborhood documents
 you have spared in your telephone&#39;s memory, yet you can likewise play organize
 streams. The video playback is naturally propelled when you tap on a video
